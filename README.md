@@ -1,6 +1,5 @@
 # GF
 GLISH_FORMATION(GF), Lightweight platform in VBA Excel, to manage courses, registrations, re-registrations and learner evaluations.
-<img src="GF.PNG" widh="100%">
 <img src="GF1.PNG" widh="100%">
 <img src="GF2.PNG" widh="100%">
 <img src="GF3.PNG" widh="100%">
